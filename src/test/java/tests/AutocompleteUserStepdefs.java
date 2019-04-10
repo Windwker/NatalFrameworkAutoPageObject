@@ -8,26 +8,33 @@ import cucumber.api.java.es.Y;
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.ExpectedCondition;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import pages.Autocomplete;
+import pages.LandingPage;
+import pages.NatalFramework2Page;
+
+import java.util.concurrent.TimeUnit;
 
 public class AutocompleteUserStepdefs {
     WebDriver driver = new ChromeDriver();
     Autocomplete autocomplete = new Autocomplete(driver);
+    LandingPage landingPage = new LandingPage(driver);
+    NatalFramework2Page natalFramework2Page = new NatalFramework2Page(driver);
 
     @Dado("me encuentro en la website de autocomplete seleccion simple")
     public void meEncuentroEnLaWebsiteDeAutocompleteSeleccionSimple() {
-        driver.get("http://ux.gruposancorseguros.com/?date=22%2F03%2F2019&sexo=Masculino&sexo=Femenino#/nf2/components/autocomplete/seleccion-multiple/demo");
-        Assert.assertEquals("Natal Framework", autocomplete.TituloDeLaPagina());
+        driver.get("http://ux.gruposancorseguros.com/#/nf2/components/autocomplete/seleccion-simple/demo");
+        driver.manage().window().fullscreen();
+                Assert.assertEquals("Natal Framework", autocomplete.TituloDeLaPagina());
     }
 
     @Cuando("comienzo a ingresar {string} en el input")
     public void comienzoAIngresarEnElInput(String arg0) {
+
+        autocomplete.HacerClickEnElSelectorDeFarmacias();
+
         autocomplete.IngresarValorInputFarmacia(arg0);
-        try {
-            Thread.sleep(2000);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
 
     }
 

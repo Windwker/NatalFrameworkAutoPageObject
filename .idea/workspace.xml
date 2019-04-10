@@ -2,27 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ab8ef9c-274d-4c3d-bcee-c87b519912ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/Autocomplete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/features/autocomplete/autocomplete.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/features/checkbox/checkbox.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/features/datepicker/datepickersimple.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/features/filelist/filelist.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/features/inputfilter/inputfilter.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/features/modal/modal.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/features/notificacion/notificacion.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/features/radiobutton/multipleradiobutton.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/features/slider/slider.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/features/tablas/descargar.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/features/tablas/opcionescolumna.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/features/tablas/tabla.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/features/treeview/treeview.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/resources/features/wizard/wizard.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/AutocompleteRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/AutocompleteUserStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LandingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/NatalFramework2Page.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Autocomplete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/Autocomplete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/AutocompleteUserStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/AutocompleteUserStepdefs.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,48 +17,28 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="natalframeworkautopageobject" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/runners/AutocompleteRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/Autocomplete.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="61" column="43" selection-start-line="61" selection-start-column="43" selection-end-line="61" selection-end-column="43" />
+            <state relative-caret-position="249">
+              <caret line="28" column="107" selection-start-line="28" selection-start-column="107" selection-end-line="28" selection-end-column="107" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1330#1331#0" expanded="true" />
-                <element signature="e#1364#1365#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/AutocompleteUserStepdefs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-471">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="187">
+              <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,8 +49,48 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/resources/features/autocomplete/autocomplete.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            <state relative-caret-position="90">
+              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/NatalFramework2Page.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#560#561#0" expanded="true" />
+                <element signature="e#600#601#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/LandingPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/runners/AutocompleteRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,6 +103,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>`</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -114,8 +124,10 @@
         <option value="$PROJECT_DIR$/src/test/java/com/natalframework/tests/AutocompleteUserStepdefs.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/natalframework/runners/AutocompleteRunner.java" />
         <option value="$PROJECT_DIR$/src/test/java/runners/AutocompleteRunner.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/Autocomplete.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/LandingPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/NatalFramework2Page.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/AutocompleteUserStepdefs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/Autocomplete.java" />
       </list>
     </option>
   </component>
@@ -127,20 +139,16 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
-  </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
+    <option name="x" value="1655" />
+    <option name="y" value="190" />
+    <option name="width" value="1348" />
+    <option name="height" value="733" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,86 +156,97 @@
               <item name="natalframeworkautopageobject" type="b2602c69:ProjectViewProjectNode" />
               <item name="NatalFrameworkAutoPageObject" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="natalframeworkautopageobject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NatalFrameworkAutoPageObject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="natalframeworkautopageobject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NatalFrameworkAutoPageObject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="natalframeworkautopageobject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NatalFrameworkAutoPageObject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="natalframeworkautopageobject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NatalFrameworkAutoPageObject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="natalframeworkautopageobject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NatalFrameworkAutoPageObject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="natalframeworkautopageobject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NatalFrameworkAutoPageObject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="natalframeworkautopageobject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NatalFrameworkAutoPageObject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-              <item name="autocomplete" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="natalframeworkautopageobject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NatalFrameworkAutoPageObject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="runners" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="natalframeworkautopageobject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NatalFrameworkAutoPageObject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="natalframeworkautopageobject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="natalframeworkautopageobject" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="natalframeworkautopageobject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="natalframeworkautopageobject" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="natalframeworkautopageobject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="natalframeworkautopageobject" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="natalframeworkautopageobject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="natalframeworkautopageobject" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="natalframeworkautopageobject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="natalframeworkautopageobject" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pages" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="natalframeworkautopageobject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="natalframeworkautopageobject" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="natalframeworkautopageobject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="natalframeworkautopageobject" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="features" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="natalframeworkautopageobject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="natalframeworkautopageobject" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="features" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="autocomplete" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="natalframeworkautopageobject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="natalframeworkautopageobject" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="runners" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="natalframeworkautopageobject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="natalframeworkautopageobject" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553189196338" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554854808789" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/natalframework/tests" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -254,7 +273,7 @@
   </component>
   <component name="RunManager">
     <configuration name="AutocompleteRunner" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
-      <module name="NatalFrameworkAutoPageObject" />
+      <module name="natalframeworkautopageobject" />
       <option name="PACKAGE_NAME" value="runners" />
       <option name="MAIN_CLASS_NAME" value="runners.AutocompleteRunner" />
       <option name="METHOD_NAME" value="" />
@@ -289,59 +308,59 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AutocompleteRunner - 2019.03.21 at 12h 07m 10s.xml">
+    <history-entry file="AutocompleteRunner - 2019.04.09 at 20h 21m 47s.xml">
       <configuration name="AutocompleteRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AutocompleteRunner - 2019.03.21 at 12h 07m 24s.xml">
+    <history-entry file="AutocompleteRunner - 2019.04.09 at 20h 24m 35s.xml">
       <configuration name="AutocompleteRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AutocompleteRunner - 2019.03.21 at 12h 14m 32s.xml">
+    <history-entry file="AutocompleteRunner - 2019.04.09 at 20h 32m 17s.xml">
       <configuration name="AutocompleteRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AutocompleteRunner - 2019.03.21 at 12h 15m 12s.xml">
+    <history-entry file="AutocompleteRunner - 2019.04.09 at 20h 35m 43s.xml">
       <configuration name="AutocompleteRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AutocompleteRunner - 2019.03.21 at 12h 15m 23s.xml">
+    <history-entry file="AutocompleteRunner - 2019.04.09 at 20h 43m 17s.xml">
       <configuration name="AutocompleteRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AutocompleteRunner - 2019.03.21 at 12h 19m 40s.xml">
+    <history-entry file="AutocompleteRunner - 2019.04.09 at 20h 50m 57s.xml">
       <configuration name="AutocompleteRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AutocompleteRunner - 2019.03.21 at 12h 21m 49s.xml">
+    <history-entry file="AutocompleteRunner - 2019.04.09 at 20h 55m 42s.xml">
       <configuration name="AutocompleteRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AutocompleteRunner - 2019.03.21 at 12h 24m 15s.xml">
+    <history-entry file="AutocompleteRunner - 2019.04.09 at 20h 59m 39s.xml">
       <configuration name="AutocompleteRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AutocompleteRunner - 2019.03.21 at 12h 24m 32s.xml">
+    <history-entry file="AutocompleteRunner - 2019.04.09 at 21h 01m 11s.xml">
       <configuration name="AutocompleteRunner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AutocompleteRunner - 2019.03.21 at 12h 25m 16s.xml">
+    <history-entry file="AutocompleteRunner - 2019.04.09 at 21h 02m 31s.xml">
       <configuration name="AutocompleteRunner" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="1366" y="0" width="1920" height="1044" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.499187" visible="true" weight="0.1782284" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.500813" side_tool="true" visible="true" weight="0.1782284" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286026" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2172489" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286026" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -357,19 +376,19 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/tests/AutocompleteUserStepdefs.java</url>
-          <line>36</line>
+          <line>43</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/pages/Autocomplete.java</url>
-          <line>43</line>
+          <line>65</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/pages/Autocomplete.java</url>
-          <line>41</line>
+          <line>63</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
@@ -425,17 +444,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/resources/features/autocomplete/autocomplete.feature">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LandingPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        <state relative-caret-position="150">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/NatalFramework2Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/runners/AutocompleteRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="120">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/resources/features/autocomplete/autocomplete.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/AutocompleteUserStepdefs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -444,20 +497,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/Autocomplete.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="61" column="43" selection-start-line="61" selection-start-column="43" selection-end-line="61" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1330#1331#0" expanded="true" />
-            <element signature="e#1364#1365#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/AutocompleteUserStepdefs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-471">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="249">
+          <caret line="28" column="107" selection-start-line="28" selection-start-column="107" selection-end-line="28" selection-end-column="107" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -517,7 +558,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>NatalFrameworkAutoPageObject</last-edited>
+          <last-edited>natalframeworkautopageobject</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
